@@ -16,4 +16,6 @@ Hay tres formas de acceder a los ejemplos del repositorio:
 
 Yo te recomiendo hacer un "fork" ya que tendrás las actualizaciones del código y podrás conectarlo desde tu computador directamente. No te recomiendo que conectes directo el repositorio, porque al final no tendrás permisos para "jugar" con el código.
 
+**Importante**: Si crees que puedes mejorar un código y deseas que el profesor lo actualice para el resto de los estudiantes, haz un pull request para que pueda ser revisado y aprobado. Esto es importante para que todos podamos aprender a desarrollar aplicaciones móviles con Kotlin, JetPack y KMP.
+
 Con ésto, ya podrás revisar las líneas de código. Recuerda que puedes conectar el repositorio para luego manipularlo directamente desde el mismo Android Studio.
