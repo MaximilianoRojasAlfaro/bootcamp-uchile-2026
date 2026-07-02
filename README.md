@@ -4,8 +4,8 @@ En este repositorio encontrarás todos los ejemplos, desafíos y desarrollos que
 ## Requisitos Previos
 Para acceder a este repositorio, lo primero es que debes tener: 
 
-- Java Development Kit (JDK). Te recomiendo que bajes la última versión desde https://www.oracle.com/latam/java/technologies/downloads/
-- Android Studio (IDE). Te recomiendo que bajes siempre la última versión desde https://developer.android.com/studio
+- Java Development Kit (JDK). Te recomiendo que bajes la última versión desde el [Sitio de Oracle](https://www.oracle.com/latam/java/technologies/downloads/)
+- Android Studio (IDE). Te recomiendo que bajes siempre la última versión desde el [Sitio de Android Developers](https://developer.android.com/studio)
 
 ## Configuración del Repositorio
 Hay tres formas de acceder a los ejemplos del repositorio:
